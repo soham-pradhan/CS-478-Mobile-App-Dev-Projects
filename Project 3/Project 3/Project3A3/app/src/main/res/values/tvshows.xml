@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tvshows">
+        <item>Brooklyn 99</item>
+        <item>How I met your mother</item>
+        <item>F.r.i.e.n.d.s</item>
+        <item>The office</item>
+        <item>Parks and Recreation</item>
+        <item>Schitts creek</item>
+    </string-array>
+
+    
+</resources>
